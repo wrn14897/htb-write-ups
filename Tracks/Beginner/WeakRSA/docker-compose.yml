@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  main:
+    image: "rsa-ctf-tool:latest"
+    volumes:
+      - ./:/src
