@@ -1,1 +1,1 @@
-Everything about ![alt text](https://app.hackthebox.com/images/logos/logo-htb.svg)
+Everything about ![alt text](https://avatars.githubusercontent.com/u/31746234?s=200&v=4)
